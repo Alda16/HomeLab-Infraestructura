@@ -26,7 +26,7 @@ Como parte de mi formación en Ingeniería de Software, implementé un flujo de 
 * **Visualización:** Dashboard en **Power BI** para analizar el SLA (Service Level Agreement) y tiempos de respuesta (Latencia).
 
 <p align="center">
-  <img src="assets/img/Dashboard.png" width="800" title="Terminal Docker">
+  <img src="assets/img/Dashboard.png" width="800" title="Dashboard de Power BI">
 </p>
 
 ## Cómo lo administro
