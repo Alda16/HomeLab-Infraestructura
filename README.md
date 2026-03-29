@@ -1,6 +1,9 @@
 # Home Lab & Private Cloud Infrastructure
 Este repositorio documenta la configuración, administración y despliegue de mi servidor doméstico basado en **Ubuntu Server**. El objetivo de este proyecto es gestionar servicios autohospedados, almacenamiento NAS y entornos de pruebas para mis desarrollos de software.
 
+<p align="center">
+  <img src="assets/img/Docker.png" width="800" title="Terminal Docker">
+</p>
 
 ## Stack Tecnológico
 * **OS:** Ubuntu Server 24.04 LTS
@@ -21,6 +24,10 @@ Como parte de mi formación en Ingeniería de Software, implementé un flujo de 
 * **Extracción:** Exportación de datos desde Uptime Kuma.
 * **ETL:** Limpieza y transformación de datos históricos.
 * **Visualización:** Dashboard en **Power BI** para analizar el SLA (Service Level Agreement) y tiempos de respuesta (Latencia).
+
+<p align="center">
+  <img src="assets/img/Dashboard.png" width="800" title="Terminal Docker">
+</p>
 
 ## Cómo lo administro
 * **Acceso SSH:** Administración remota mediante terminal.
